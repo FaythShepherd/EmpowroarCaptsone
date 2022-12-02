@@ -381,7 +381,7 @@ ul.btn li:last-child {
 /** banner section **/
 
 .banner_main {
-     background: url(../images/creamBackground.jpg);
+     background: url(../images/darkBackround.jpg);
      background-repeat: no-repeat;
      min-height: 700px;
      background-size: 100% 100%;
@@ -600,7 +600,7 @@ ul.btn li:last-child {
 }
 
 .about .about_img {
-     background: url(../images/about.png);
+     background: url(../images/QuoteBackGround.jpg);
      background-size: 100% 100%;
      text-align: center;
      min-height: 700px;
@@ -680,7 +680,7 @@ ul.btn li:last-child {
 }
 
 .work_text h3 {
-     color: #fff;
+     color: rgb(0, 0, 0);
      font-size: 25px;
      line-height: 28px;
      font-weight: 700;
@@ -689,7 +689,7 @@ ul.btn li:last-child {
 }
 
 .blu {
-     color: #51fe44;
+     color: #7e161e;
      font-size: 17px;
      line-height: 28px;
      font-weight: 600;
